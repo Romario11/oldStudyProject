@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;vektorCalculator.Vektor&apos; to &apos;Vector&apos;&#x0D;&#x0A;- Original project: &apos;vektorCalculator&apos;&#x0D;&#x0A;- Original element: &apos;vektorCalculator.Vektor&apos;&#x0D;&#x0A;- Renamed element: &apos;vektorCalculator.Vector&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Rename similarly named elements&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Vektor&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;vektorCalculator{Vektor.java[Vektor" matchStrategy="1" name="Vector" qualified="false" references="true" similarDeclarations="true" stamp="1444066185621" textual="false" version="1.0"/>
+</session>

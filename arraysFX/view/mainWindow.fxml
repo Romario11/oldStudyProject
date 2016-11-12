@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import java.lang.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="200.0" prefWidth="275.0" xmlns="http://javafx.com/javafx/8" xmlns:fx="http://javafx.com/fxml/1" fx:controller="homeWorks.work_9.arraysFX.controller.MainWindowController">
+   <children>
+      <Label layoutX="12.0" layoutY="14.0" text="Sort array by:" />
+      <TableView fx:id="table" layoutX="12.0" layoutY="46.0" prefHeight="146.0" prefWidth="251.0">
+        <columns>
+          <TableColumn fx:id="typeColumn" prefWidth="89.0" text="type" />
+          <TableColumn fx:id="priceColumn" prefWidth="44.0" text="price" />
+            <TableColumn fx:id="speedColumn" prefWidth="43.0" text="speed" />
+            <TableColumn fx:id="colorColumn" prefWidth="45.0" text="color" />
+            <TableColumn fx:id="idColumn" prefWidth="28.0" text="id" />
+        </columns>
+      </TableView>
+      <ComboBox fx:id="comboBox" layoutX="94.0" layoutY="10.0" prefHeight="25.0" prefWidth="169.0" promptText="choose..." />
+   </children>
+</AnchorPane>

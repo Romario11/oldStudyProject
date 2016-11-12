@@ -1,0 +1,24 @@
+package overload;
+
+public class Dispather {
+
+	public static void main(String[] args) {
+		//String s = "JAVA FOREVERE";
+		//System.out.println(s.indexOf('A',2));
+		//System.out.println(s.indexOf("RE",8));
+		int x =10;
+		double y= 5.2;
+		display();
+
+	}
+	
+	static void	display(int a){
+		System.out.println(1);
+	   
+   }
+	static void	display(double a){
+		System.out.println(2);
+	   
+   }
+
+}

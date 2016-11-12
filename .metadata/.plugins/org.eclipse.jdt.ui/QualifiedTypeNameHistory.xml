@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+<fullyQualifiedTypeName name="java.util.Calendar"/>
+<fullyQualifiedTypeName name="java.util.GregorianCalendar"/>
+<fullyQualifiedTypeName name="java.util.Comparator"/>
+<fullyQualifiedTypeName name="java.util.Arrays"/>
+<fullyQualifiedTypeName name="carShop.Car.ComparatorByColour"/>
+<fullyQualifiedTypeName name="carShop.Car.ComparatorBySpeed"/>
+<fullyQualifiedTypeName name="carShop.Car.ComparatorByIde"/>
+<fullyQualifiedTypeName name="carShop.Car.ComparatorByPrice"/>
+<fullyQualifiedTypeName name="java.util.ArrayList"/>
+<fullyQualifiedTypeName name="java.security.AlgorithmConstraints"/>
+</qualifiedTypeNameHistroy>

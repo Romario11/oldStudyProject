@@ -1,0 +1,11 @@
+package overload;
+
+public class Dispather {
+
+	public static void main(String[] args) {
+		String s = "JAVA FOREVER";
+		System.out.println(s.indexOf('A',2));
+
+	}
+
+}

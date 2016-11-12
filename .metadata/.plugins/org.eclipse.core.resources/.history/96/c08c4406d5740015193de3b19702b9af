@@ -1,0 +1,34 @@
+package test;
+
+public class Solution
+{
+    public static void main(String[] args)
+    {
+    	
+    	for(int i=0; i<10;i++)
+    	{
+    		Cat cat1= new Cat();
+    		Cat.catCount++;
+    	}
+    	
+    	
+        //Cоздай тут 10 объектов Cat
+System.out.println(Cat.catCount);
+        //Выведи тут на экран catCount
+    }
+
+    public static class Cat
+    {
+
+    	public static int catCount;
+    	//Cоздай тут статическую переменную
+
+    	public Cat(){
+    		
+    	};
+        //Создай тут конструктор
+    }
+
+}
+
+

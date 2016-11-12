@@ -1,0 +1,4 @@
+Student{name='SERJ', mark=4.3}
+Student{name='MARY', mark=4.9}
+Student{name='IVAN', mark=3.2}
+Student{name='ANN', mark=4.7}
